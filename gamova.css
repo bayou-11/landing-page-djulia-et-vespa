@@ -1,0 +1,182 @@
+#menu-bar ul
+{
+    display: inline-flex;
+    list-style:none;
+    position: absolute;
+    left: 350px;
+    top: 130px;
+    font-family: montserrat;
+    font-size: 0.7em;
+
+}
+#menu-bar ul li 
+{
+   padding-left: 40px;
+   display: block;
+       padding-top: px;
+       color: #fff;
+       
+       
+}
+#photo
+{
+    position: absolute;
+    left: 270px;
+    font-size: 5em;
+    top: 150px;
+    color: #fff;
+    font-family: cyrene;
+}
+#by
+{
+    position: absolute;
+    left: 400px;
+    font-size: 5em;
+    top: 220px;
+    color: #fff;
+    font-family: cyrene;
+}
+#djulia
+{
+    position: absolute;
+    left: 270px;
+    font-size: 5em;
+    top: 290px;
+    color: #fff;
+    font-family: cyrene;
+}
+#gamova
+{
+    position: absolute;
+    left: 510px;
+    font-size: 5em;
+    top: 290px;
+    color: #fff;
+    font-family: cyrene;
+}
+#texte
+{
+    position: absolute;
+    left: 270px;
+    top: 465px;
+    color: gray;
+    font-family: montserrat ;
+    font-size: 0.7em;
+}
+body
+{
+    background: url("djulia gamova.jpeg");
+    background-size:500 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+#bordure
+{
+    position: absolute;
+    border: solid 0.5px;
+    width: 100px;
+    top: 240px;
+    left: 200px;
+    color: gray;
+}
+#bordure1
+{
+    border: solid 0.5px;
+    width: 100px;
+    position: absolute;
+    top: 470px;
+    left: 200px;
+    color: gray;
+}
+.rotate90
+{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+#cercle
+{
+    position: absolute;
+    right: 250px;
+    top: 440px;
+}
+#cercle1
+{
+    position: absolute;
+    right: 1030px;
+    top: 120px; 
+}
+#shoot
+{
+    position: absolute;
+    top: 465px;
+    left: 1030px;
+    color: #fff;
+    font-family: montserrat;
+    font-size: 0.7em;
+}
+#dg
+{
+    position: absolute;
+    top: 125px;
+    left: 238px;
+    color: #fff;
+    font-family: montserrat;
+    font-size: 0.9em; 
+}
+#face
+{
+    width: 22px;
+    position: absolute;
+    top: 305px;
+    left: 238px;
+}
+#insta
+{
+    width: 22px;
+    position: absolute;
+    top: 340px;
+    left: 238px;
+}
+#what
+{
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 380px;
+    left: 238px;
+}
+#kiv
+{
+    position: absolute;
+    top: 540px;
+    left: 240px;
+    color: #fff;
+    font-size: 0.6em;
+    font-family: montserrat;
+}
+#en
+{
+    position: absolute;
+    top: 135px;
+    left: 1070px;
+    color: #fff;
+    font-size: 0.6em;
+    font-family: montserrat;  
+}
+#local
+{
+    width: 30px;
+    position: absolute;
+    top: 525px;
+    left: 235px;  
+}
+#fleche
+{
+    position: absolute;
+    top: 190px;
+    left: 560px;
+}
