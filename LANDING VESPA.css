@@ -1,0 +1,102 @@
+#menu-bar ul
+{
+    display: inline-flex;
+    list-style:none;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+
+}
+#menu-bar ul li 
+{
+   padding-left: 60px;
+   display: block;
+       padding-top: px;
+       
+       
+}
+#logo
+{
+    margin-top: -160px;
+    margin-left: 60px;
+    font-family: Retro signature;
+    font-size: 5em;
+}
+#num
+{
+    font-size:16em;
+    margin-left: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -90px;
+}
+#the
+{
+    margin-left: 950px;
+    margin-top: -260px;
+    font-size: 3em;
+    font-family: Retro signature;
+}
+#image
+{
+    margin-top: -400px;
+    margin-left: 300px;
+    width: 750px;
+}
+#buy
+{
+    margin-left: 570px;
+    background-color: yellow;
+    color: #fff;
+    display: inline-block;
+    font-size: 2em;
+    border-radius: 1em;
+    margin-top: -80px;
+    padding: 10px 40px;
+    text-decoration: none;
+    box-shadow: 0 3px #999;
+}
+.rotate90
+{
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+#face
+{
+    width: 40px;
+    margin-top: -500px;
+    margin-left: 50px;
+}
+#insta
+{
+    width: 40px;
+    margin-top: -450px;
+    margin-left: 50px;  
+}
+#twite
+{
+    width: 40px;
+    margin-top: -400px;
+    margin-left: 50px;   
+}
+#you
+{
+    width: 50px;
+    margin-top: -350px;
+    margin-left: 45px;  
+}
+body
+{
+    border: solid 10px;
+    width: 1300px;
+    height: 700px;
+}
+#huit
+{
+    position: absolute;
+    top: 600px;
+    left: 1150px;
+}
